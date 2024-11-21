@@ -1,0 +1,10 @@
+.ScrollBar{
+    overflow-y: scroll !important;
+    scrollbar-width: none;
+    height: 570px;
+}
+.rightScrollBar{
+    overflow-y: scroll !important;
+    scrollbar-width: none;
+    height: 560px;
+}
