@@ -10,7 +10,7 @@ import naghb from './../../images/naghb.jpg'
 export const LeftBar = () => {
 
   return (
-    <div className="ScrollBar md:w-[30%] lg:w-[17%] bg-white fixed top-16 pt-4  left-0 -bottom-5 right-1/3  flex-col space-x-5 pb-12 dark:bg-gray-800 dark:text-white hidden md:flex">
+    <div className="ScrollBar sm:w-[30%] lg:w-[17%] bg-white fixed top-16 pt-4  left-0 -bottom-5 right-1/3  flex-col space-x-5 pb-12 dark:bg-gray-800 dark:text-white hidden sm:flex">
       <div className="flex flex-col space-y-4 px-3 md:px-4 py-8 ">
           <div className="flex justify-start items-center space-x-3 font-semibold">
             <i ><FontAwesomeIcon icon={faFeed} /></i>

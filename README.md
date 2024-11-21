@@ -11,4 +11,4 @@ I use useContext useState useEffect fontAwesome etc...
 
 ## deploy Link 👇👇🏿
 
-(https://lamasocial01.netlify.app/)
+(https://lamasocial02.netlify.app/)

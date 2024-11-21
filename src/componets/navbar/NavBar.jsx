@@ -45,7 +45,7 @@ useEffect(()=>{
       <h1 className="text-purple-800 dark:text-purple-400 text-xl  font-bold cursor-pointer">lamaSocial</h1></Link>
       <i className="cursor-pointer"><FontAwesomeIcon icon={faHome}/></i>
       <button className="cursor-pointer focus:outline-none" onClick={darkMode}><FontAwesomeIcon icon={dark?faSun:faMoon}/></button>
-      <i className="cursor-pointer hidden md:block"><FontAwesomeIcon icon={faBorderAll}/></i>
+      <i className="cursor-pointer hidden sm:block"><FontAwesomeIcon icon={faBorderAll}/></i>
       <div className="md:border rounded-lg flex space-x-1 justify-center items-center ">
         <i className="pl-1 text-xs cursor-pointer md:cursor-default"><FontAwesomeIcon icon={faSearch} /></i>
         <input type="text" placeholder="Search" className="border-none focus:outline-none px-2 w-64 bg-transparent hidden md:block" />
